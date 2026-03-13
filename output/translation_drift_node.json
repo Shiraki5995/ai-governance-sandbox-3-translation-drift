@@ -1,0 +1,14 @@
+{
+  "concept": "market oversight",
+  "intent": "protect market stability",
+  "boundary": "monitor high-risk suppliers",
+  "rationale": "The policy establishes a proactive oversight role for authorities regarding high-risk suppliers, aiming to prevent disruptions and uphold market stability. However, variations in modal verbs and action terms across translations may affect the perceived strength of the mandate and the nature of oversight, potentially leading to inconsistent implementation across jurisdictions.",
+  "meta_concept": "Authorities are expected to oversee high-risk suppliers to maintain or ensure market stability.",
+  "translation_drift": {
+    "French": "Minimal drift. 'Doivent' (must) is stronger than 'should', implying obligation rather than recommendation.",
+    "German": "'Sollten' matches 'should', but 'überwachen' (monitor) is accurate. No significant drift.",
+    "Italian": "'Dovrebbero' (should) matches the original, but 'controllare' (control/check) is slightly stronger than 'monitor'.",
+    "Spanish": "'Deberían' (should) matches the original, but 'revisar' (review/check) is less continuous than 'monitor'."
+  },
+  "timestamp": "2026-03-10T11:05:05.094117+00:00"
+}
