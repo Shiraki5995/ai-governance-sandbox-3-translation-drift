@@ -1,0 +1,18 @@
+Original languages
+↓
+Meta Concept
+↓
+Intent
+↓
+Boundary
+↓
+Governance Meaning
+↓
+CBP Node
+
+
+
+1 detect interpretation drift
+2 identify shared concept
+3 identify divergence points
+4 propose meta concept
